@@ -299,7 +299,7 @@ i {
 .much {
   margin-bottom: 20px;
   width: 200px;
-  height: 15px;
+  height: 5px;
 }
 .leixing {
   margin-left: 149px;
